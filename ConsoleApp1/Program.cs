@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("wvedite slovo");
+            Console.WriteLine("Please, type the word");
             String slovo = Console.ReadLine();
             int l = slovo.Length;
 
